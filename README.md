@@ -1,5 +1,7 @@
+## VUEJS SAMPLE
+
 #### Description
-[VUEJS](http://vuejs.org/) application sample
+[vuejs](http://vuejs.org/) application sample
 
 #### Run backend app
 
